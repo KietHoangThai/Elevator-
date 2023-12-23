@@ -1,0 +1,6 @@
+File allocation for EX1
+- Top-level file: Elevator_Controller.sv
+- sort.sv: file locates in Input_sort_test folder
+- Testbench for top-level locates in Testbench/2_Elevator_Call_TB folder
+- Top-level testbench: Elevator_Controller_tb_advanced.sv
+- run length: 100ns
